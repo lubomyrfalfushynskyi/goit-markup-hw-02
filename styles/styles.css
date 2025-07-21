@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -7,8 +7,18 @@ body {
     color: #2E2F42;
 }
 
-href {
-    font-family: Roboto;
+a href {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: none;
+    color: #4D5AE5;
+}
+
+a href:hover{
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
@@ -17,8 +27,19 @@ href {
     color: #4D5AE5;
 }
 
+a href:active{
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: underline;
+    text-wrap: wrap;
+    color: #4D5AE5;
+}
+
 button {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -27,7 +48,7 @@ button {
 }
 
 .medium {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -36,7 +57,7 @@ button {
 }
 
 .small {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 12px;
     line-height: 14px;
@@ -45,7 +66,7 @@ button {
 }
 
 h1, title {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
@@ -54,7 +75,7 @@ h1, title {
 }
 
 h2 {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
@@ -63,7 +84,7 @@ h2 {
 }
 
 h3 {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;

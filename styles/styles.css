@@ -1,0 +1,72 @@
+body {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+href {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: underline;
+    color: #4D5AE5;
+}
+
+button {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    color: #2E2F42;
+}
+
+.medium {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.small {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 4%;
+    color: #2E2F42;
+}
+
+h1, title {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+h2 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+h3 {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}

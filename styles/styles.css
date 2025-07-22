@@ -5,37 +5,25 @@ body {
     line-height: 24px;
     letter-spacing: 2%;
     color: #2E2F42;
+    background-color: #FFFFFF;
 }
 
-a href {
+a, .navigation-bar a{
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 12px;
     line-height: 16px;
     letter-spacing: 4%;
-    text-decoration: none;
+    text-decoration:none;
     color: #4D5AE5;
 }
 
 a href:hover{
-    font-family: Roboto, sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
     text-decoration: underline;
-    color: #4D5AE5;
 }
 
 a href:active{
-    font-family: Roboto, sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
-    text-decoration: underline;
     text-wrap: wrap;
-    color: #4D5AE5;
 }
 
 button {
@@ -65,7 +53,7 @@ button {
     color: #2E2F42;
 }
 
-h1, title {
+h1, title, .main-header {
     font-family: Roboto, sans-serif;
     font-weight: 700;
     font-size: 56px;
